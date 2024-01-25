@@ -4,5 +4,8 @@
 int main(void)
 {
      printf("hello world");
-     for(int i=1; i <100;i++)
+    
+    
+    printf("mi primera chamba en git hub ")
+
 }
