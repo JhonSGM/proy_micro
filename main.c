@@ -3,5 +3,6 @@
 
 int main(void)
 {
-     printf("hello world")
+     printf("hello world");
+     for(int i=1; i <100;i++)
 }
